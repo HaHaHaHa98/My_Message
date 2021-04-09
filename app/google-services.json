@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916444996643",
+    "project_id": "concise-rex-281603",
+    "storage_bucket": "concise-rex-281603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916444996643:android:6b67ab18cbb5069f423d96",
+        "android_client_info": {
+          "package_name": "com.example.my_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916444996643-nvib3ala2j7b5nbolg5fclb0ct0426dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXAhOvdGPFg8KOhcVPjbUC6vLkDwpRqWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916444996643-nvib3ala2j7b5nbolg5fclb0ct0426dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
